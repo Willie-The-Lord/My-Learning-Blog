@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💻 My Learning Journal](README.md)
+* [💻 Preview](README.md)
 * [👨💻 Author](author.md)
 
 ## Programming Language
@@ -38,4 +38,9 @@
 
 ## Search Engine
 
+* [Kibana](search-engine/kibana.md)
 * [Elastic Search](search-engine/elastic-search.md)
+
+## Frontend
+
+* [React](frontend/react.md)
