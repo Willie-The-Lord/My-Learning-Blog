@@ -33,7 +33,9 @@
 
 ## Web Framework
 
-* [Flask](web-framework/flask.md)
+* [Flask](web-framework/flask/README.md)
+  * [@app.route()](web-framework/flask/app.route.md)
+  * [variable rule](web-framework/flask/variable-rule.md)
 * [Django](web-framework/django.md)
 
 ## Search Engine
