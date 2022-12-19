@@ -14,6 +14,10 @@
     * [@property](programming-language/advanced-python/decorators/property.md)
     * [@staticmethod](programming-language/advanced-python/decorators/staticmethod.md)
     * [@classmethod](programming-language/advanced-python/decorators/classmethod.md)
+* [JavaScript](programming-language/javascript/README.md)
+  * [Comparison Operator](programming-language/javascript/comparison-operator.md)
+  * [Ternary Operators](programming-language/javascript/ternary-operators.md)
+  * [Date Object](programming-language/javascript/date-object.md)
 
 ## Database
 
