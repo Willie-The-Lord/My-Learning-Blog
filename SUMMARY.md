@@ -18,6 +18,7 @@
   * [Comparison Operator](programming-language/javascript/comparison-operator.md)
   * [Ternary Operators](programming-language/javascript/ternary-operators.md)
   * [Date Object](programming-language/javascript/date-object.md)
+  * [Switch](programming-language/javascript/switch.md)
 
 ## Database
 
