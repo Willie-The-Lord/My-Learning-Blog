@@ -20,6 +20,8 @@
   * [Date Object](programming-language/javascript/date-object.md)
   * [Switch](programming-language/javascript/switch.md)
   * [Array](programming-language/javascript/array.md)
+  * [Loops](programming-language/javascript/loops.md)
+  * [Function](programming-language/javascript/function.md)
 
 ## Database
 
