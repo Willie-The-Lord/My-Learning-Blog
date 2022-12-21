@@ -19,6 +19,7 @@
   * [Ternary Operators](programming-language/javascript/ternary-operators.md)
   * [Date Object](programming-language/javascript/date-object.md)
   * [Switch](programming-language/javascript/switch.md)
+  * [Array](programming-language/javascript/array.md)
 
 ## Database
 
