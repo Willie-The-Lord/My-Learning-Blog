@@ -22,6 +22,7 @@
   * [Array](programming-language/javascript/array.md)
   * [Loops](programming-language/javascript/loops.md)
   * [Function](programming-language/javascript/function.md)
+  * [Object](programming-language/javascript/object.md)
 
 ## Database
 
