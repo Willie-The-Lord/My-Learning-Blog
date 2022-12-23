@@ -23,6 +23,8 @@
   * [Loops](programming-language/javascript/loops.md)
   * [Function](programming-language/javascript/function.md)
   * [Object](programming-language/javascript/object.md)
+  * [Higher Order Function](programming-language/javascript/higher-order-function.md)
+  * [Functional Programming](programming-language/javascript/functional-programming.md)
 
 ## Database
 
