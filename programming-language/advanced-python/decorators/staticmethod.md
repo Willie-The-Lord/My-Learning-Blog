@@ -1,8 +1,15 @@
 # @staticmethod
 
-### What is staticmethod()
+### What is a static method?
 
-The `staticmethod()` built-in function returns a static method for a given function.
+Static methods, much like [class methods](https://www.programiz.com/python-programming/methods/built-in/classmethod), are methods that are bound to a class rather than its object.
+
+They do not require a class instance creation. So, they are not dependent on the state of the object.
+
+The difference between a static method and a class method is:
+
+* Static method knows nothing about the class and just deals with the parameters.
+* Class method works with the class since its parameter is always the class itself.
 
 ```python
 class Calculator:

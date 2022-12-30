@@ -25,6 +25,9 @@
   * [Object](programming-language/javascript/object.md)
   * [Higher Order Function](programming-language/javascript/higher-order-function.md)
   * [Functional Programming](programming-language/javascript/functional-programming.md)
+  * [Destructuring and Spreading](programming-language/javascript/destructuring-and-spreading.md)
+  * [Console Object Method](programming-language/javascript/console-object-method.md)
+  * [Classes](programming-language/javascript/classes.md)
 
 ## Database
 
