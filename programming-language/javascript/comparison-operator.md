@@ -35,6 +35,4 @@ console.log('tomato'.length == 'potato'.length)  // true
 console.log('python'.length > 'dragon'.length)   // false
 ```
 
-{% embed url="https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/03_Day_Booleans_operators_date/03_booleans_operators_date.md" %}
-
 {% embed url="https://dorey.github.io/JavaScript-Equality-Table/" %}

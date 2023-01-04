@@ -66,5 +66,3 @@ switch (day) {
     console.log('It is not a week day.')
 }
 ```
-
-{% embed url="https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/04_Day_Conditionals/04_day_conditionals.md" %}

@@ -28,6 +28,7 @@
   * [Destructuring and Spreading](programming-language/javascript/destructuring-and-spreading.md)
   * [Console Object Method](programming-language/javascript/console-object-method.md)
   * [Classes](programming-language/javascript/classes.md)
+  * [JSON](programming-language/javascript/json.md)
 * [Swift](programming-language/swift/README.md)
   * [Day 1](programming-language/swift/day-1.md)
 
