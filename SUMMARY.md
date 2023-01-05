@@ -30,7 +30,12 @@
   * [Classes](programming-language/javascript/classes.md)
   * [JSON](programming-language/javascript/json.md)
 * [Swift](programming-language/swift/README.md)
-  * [Day 1](programming-language/swift/day-1.md)
+  * [Decimal](programming-language/swift/decimal.md)
+  * [Boolean](programming-language/swift/boolean.md)
+  * [Array](programming-language/swift/array.md)
+  * [Dictionary](programming-language/swift/dictionary.md)
+  * [Set](programming-language/swift/set.md)
+  * [Enum](programming-language/swift/enum.md)
 
 ## Database
 
@@ -63,3 +68,7 @@
 ## Frontend
 
 * [React](frontend/react.md)
+
+## Note
+
+* [How WEB works](note/how-web-works.md)
