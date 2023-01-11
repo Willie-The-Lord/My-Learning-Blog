@@ -30,6 +30,7 @@
   * [Classes](programming-language/javascript/classes.md)
   * [JSON](programming-language/javascript/json.md)
 * [Swift](programming-language/swift/README.md)
+  * [Optional](programming-language/swift/optional.md)
   * [Decimal](programming-language/swift/decimal.md)
   * [Boolean](programming-language/swift/boolean.md)
   * [Array](programming-language/swift/array.md)
